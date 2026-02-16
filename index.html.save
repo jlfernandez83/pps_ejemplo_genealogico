@@ -8,17 +8,7 @@
 <body>
     <h1>Arbol genealógico de la clase de PPS</h1>
     <div>TODO: Rellenar aquí el arbol genealógico</div>
-    <h1>Antonia y Luis</h1>
-	<ul>
-	  <li>Antonia (Madre)
-	    <ul>
-	      <li>Luis Mariano (Padre)
-	        <ul>
-	          <li>Antonio (Hijo)</li>
-	        </ul>
-	      </li>
-	    </ul>
-	  </li>
-	</ul>
+    <ul>
+    <h1>Antonio Arcediano Consuegra</h1>
 </body>
 </html>
